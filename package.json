@@ -1,0 +1,22 @@
+{
+  "name": "radjson",
+  "version": "1.0.0",
+  "description": "readJSON latihan",
+  "main": "readjson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nartex13/readJSON.git"
+  },
+  "keywords": [
+    "readJSON"
+  ],
+  "author": "nartex13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nartex13/readJSON/issues"
+  },
+  "homepage": "https://github.com/nartex13/readJSON#readme"
+}

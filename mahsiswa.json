@@ -1,0 +1,14 @@
+{
+    "Nama ": "Nana Fadiyah",
+    "Alamat": "Yogyakarta",
+    "Fakultas": {
+        "Prodi": "Manajemen Informatika",
+        "NIM": "313111005",
+        "Kelas": "A"
+    },
+    "TTL": {
+        "Tempat": "Jakarta",
+        "Tanggal": "11 Januari 1999"
+    },
+    "Status": null
+}
